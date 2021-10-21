@@ -1,0 +1,9 @@
+C:\Users\monte\OneDrive\Área de Trabalho\Thiago\TCC\DynamicsIntegration\DynamicsIntegration\bin\Debug\DynamicsIntegration.dll.config
+C:\Users\monte\OneDrive\Área de Trabalho\Thiago\TCC\DynamicsIntegration\DynamicsIntegration\bin\Debug\DynamicsIntegration.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Thiago\TCC\DynamicsIntegration\DynamicsIntegration\bin\Debug\DynamicsIntegration.pdb
+C:\Users\monte\OneDrive\Área de Trabalho\Thiago\TCC\DynamicsIntegration\DynamicsIntegration\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Thiago\TCC\DynamicsIntegration\DynamicsIntegration\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\monte\OneDrive\Área de Trabalho\Thiago\TCC\DynamicsIntegration\DynamicsIntegration\obj\Debug\DynamicsIntegration.csproj.AssemblyReference.cache
+C:\Users\monte\OneDrive\Área de Trabalho\Thiago\TCC\DynamicsIntegration\DynamicsIntegration\obj\Debug\DynamicsIntegration.csproj.CoreCompileInputs.cache
+C:\Users\monte\OneDrive\Área de Trabalho\Thiago\TCC\DynamicsIntegration\DynamicsIntegration\obj\Debug\DynamicsIntegration.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Thiago\TCC\DynamicsIntegration\DynamicsIntegration\obj\Debug\DynamicsIntegration.pdb
